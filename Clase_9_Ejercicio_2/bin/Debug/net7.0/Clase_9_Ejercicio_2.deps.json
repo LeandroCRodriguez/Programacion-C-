@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Clase_9_Ejercicio_2/1.0.0": {
+        "dependencies": {
+          "LibreriaDeClases_9": "1.0.0"
+        },
+        "runtime": {
+          "Clase_9_Ejercicio_2.dll": {}
+        }
+      },
+      "LibreriaDeClases_9/1.0.0": {
+        "runtime": {
+          "LibreriaDeClases_9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase_9_Ejercicio_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDeClases_9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

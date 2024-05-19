@@ -1,0 +1,11 @@
+C:\Leandro\UTN C#\LibreriaDeClases2\bin\Debug\net7.0\LibreriaDeClases2.deps.json
+C:\Leandro\UTN C#\LibreriaDeClases2\bin\Debug\net7.0\LibreriaDeClases2.dll
+C:\Leandro\UTN C#\LibreriaDeClases2\bin\Debug\net7.0\LibreriaDeClases2.pdb
+C:\Leandro\UTN C#\LibreriaDeClases2\obj\Debug\net7.0\LibreriaDeClases2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leandro\UTN C#\LibreriaDeClases2\obj\Debug\net7.0\LibreriaDeClases2.AssemblyInfoInputs.cache
+C:\Leandro\UTN C#\LibreriaDeClases2\obj\Debug\net7.0\LibreriaDeClases2.AssemblyInfo.cs
+C:\Leandro\UTN C#\LibreriaDeClases2\obj\Debug\net7.0\LibreriaDeClases2.csproj.CoreCompileInputs.cache
+C:\Leandro\UTN C#\LibreriaDeClases2\obj\Debug\net7.0\LibreriaDeClases2.dll
+C:\Leandro\UTN C#\LibreriaDeClases2\obj\Debug\net7.0\refint\LibreriaDeClases2.dll
+C:\Leandro\UTN C#\LibreriaDeClases2\obj\Debug\net7.0\LibreriaDeClases2.pdb
+C:\Leandro\UTN C#\LibreriaDeClases2\obj\Debug\net7.0\ref\LibreriaDeClases2.dll

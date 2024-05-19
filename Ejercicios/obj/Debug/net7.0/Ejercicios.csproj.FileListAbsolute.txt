@@ -1,0 +1,11 @@
+C:\Leandro\UTN C#\Ejercicios\bin\Debug\net7.0\Ejercicios.deps.json
+C:\Leandro\UTN C#\Ejercicios\bin\Debug\net7.0\Ejercicios.dll
+C:\Leandro\UTN C#\Ejercicios\bin\Debug\net7.0\Ejercicios.pdb
+C:\Leandro\UTN C#\Ejercicios\obj\Debug\net7.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leandro\UTN C#\Ejercicios\obj\Debug\net7.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Leandro\UTN C#\Ejercicios\obj\Debug\net7.0\Ejercicios.AssemblyInfo.cs
+C:\Leandro\UTN C#\Ejercicios\obj\Debug\net7.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Leandro\UTN C#\Ejercicios\obj\Debug\net7.0\Ejercicios.dll
+C:\Leandro\UTN C#\Ejercicios\obj\Debug\net7.0\refint\Ejercicios.dll
+C:\Leandro\UTN C#\Ejercicios\obj\Debug\net7.0\Ejercicios.pdb
+C:\Leandro\UTN C#\Ejercicios\obj\Debug\net7.0\ref\Ejercicios.dll
